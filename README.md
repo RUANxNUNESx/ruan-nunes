@@ -11,7 +11,7 @@
     
     <div id="topo">
         <h1 id="logo">TECH<span class="blog">BLOG</span></h1>
-    </div>
+
 
     <div id="navegação">
 
@@ -21,5 +21,7 @@
 
     </div>
 
+    </div>
+    
 </body>
 </html>
