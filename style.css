@@ -1,1 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+#topo{
+    background-color: gray;
+    text-align: center;
+    height: 70px;
+    padding-top: 18px;
+}
+
+.blog{
+    color: yellow;
+}
 
