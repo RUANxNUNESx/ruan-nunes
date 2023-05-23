@@ -1,6 +1,5 @@
-# ruan-nunes
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -10,7 +9,15 @@
 </head>
 <body>
     
-    <h1>ALGUMA COISA</h1>
+    <div id="topo">
+        <h1 id="logo">TECH<span class="blog">BLOG</span></h1>
+    </div>
+
+    <div>
+
+        
+
+    </div>
 
 </body>
 </html>
