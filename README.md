@@ -13,9 +13,11 @@
         <h1 id="logo">TECH<span class="blog">BLOG</span></h1>
     </div>
 
-    <div>
+    <div id="navegação">
 
-        
+        <a href="">HOME</a>
+        <a href="">COMPUTADORES</a>
+        <a href="">JOGOS</a>
 
     </div>
 
