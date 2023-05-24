@@ -28,6 +28,18 @@ body{
     margin: 0px auto;
 }
 
+#postagem_principal{
+    width: 720px;
+    background: black;
+    float: left;
+}
+
+#postagem_lateral{
+    width: 240px;
+    background: black;
+    float: right;
+}
+
 /*LINKS*/
 
 a{
@@ -48,4 +60,5 @@ a:hover{
 .branco{
     color: white;
 }
+
 
