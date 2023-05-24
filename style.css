@@ -1,25 +1,51 @@
+/*formatação geral*/
 * {
     margin: 0px;
     padding: 0px;
 }
 
+body{
+    background-color: gainsboro;
+}
+  /*IDs*/
 #topo{
     background-color: gray;
+    padding: 15px;
     text-align: center;
-    height: 70px;
-    padding-top: 18px;
+}
+
+#logo{
+    padding: 10px;
 }
 
 #navegacao{
-    
+    padding: 10px;
 }
 
-.blog{
-    color: yellow;
+#principal{
+    background: wheat;
+    width: 980px;
+    margin: 0px auto;
 }
 
-.links_navegacao{
-    text-decoration-line: none;
+/*LINKS*/
+
+a{
+    text-decoration: none;
 }
 
+a:link, a:visited{
+    color: white;
+    padding: 8px 12px;
+}
+
+a:hover{
+    background-color: black;
+}
+
+/*CLASSES*/
+
+.branco{
+    color: white;
+}
 
