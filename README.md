@@ -28,7 +28,7 @@
         </div>
 
         <div id="postagem_lateral">
-
+            olá
         </div>
     </div>
     
