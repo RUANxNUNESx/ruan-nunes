@@ -24,7 +24,12 @@
 
     <div id="principal">
         <div id="postagem_principal">
-            escola não é uma perca de tempo, ela é pior do que isso.
+            <h2>VEJA: CHAN é o grande vencedor da NEGANCUP#3<h2>
+            <img width="640px" src="imagens/FxOzjbRXwAICNJp.jpeg" alt="">
+            <p>
+                Depois de quase três horas de competição, o jogador CHAN da ZITYsports<br>
+                finalmente se consagrou o grande campeão com um 3x0 em cima do adversário.
+            </p>
         </div>
 
         <div id="postagem_lateral">
