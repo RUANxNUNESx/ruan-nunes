@@ -30,13 +30,13 @@ body{
 
 #postagem_principal{
     width: 720px;
-    background: black;
+    background: whitesmoke;
     float: left;
 }
 
 #postagem_lateral{
     width: 240px;
-    background: black;
+    background: whitesmoke;
     float: right;
 }
 
@@ -60,5 +60,3 @@ a:hover{
 .branco{
     color: white;
 }
-
-
