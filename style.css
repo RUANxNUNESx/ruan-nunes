@@ -24,20 +24,42 @@ body{
 
 #principal{
     background: wheat;
-    width: 980px;
+    width: 1220px;
     margin: 0px auto;
 }
 
 #postagem_principal{
-    width: 720px;
+    width: 880px;
+    padding: 20;
+    margin-bottom: 20px;
     background: whitesmoke;
     float: left;
 }
 
 #postagem_lateral{
-    width: 240px;
+    width: 280px;
     background: whitesmoke;
     float: right;
+}
+
+#rodape{
+    clear: both;
+    text-align: center;
+    background: grey;
+}
+
+/*CLASSES*/
+
+.branco{
+    color: white;
+}
+
+.data-postagem{
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #f4f4f4;
+    font-size: 0.8em;
+    display: block;
 }
 
 /*LINKS*/
@@ -53,10 +75,4 @@ a:link, a:visited{
 
 a:hover{
     background-color: black;
-}
-
-/*CLASSES*/
-
-.branco{
-    color: white;
 }
