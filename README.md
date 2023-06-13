@@ -22,19 +22,26 @@
 
     </div>
 
+    <!--início postagens-->
     <div id="principal">
         <div id="postagem_principal">
             <h2>VEJA: CHAN é o grande vencedor da NEGANCUP#3<h2>
-            <img width="640px" src="imagens/FxOzjbRXwAICNJp.jpeg" alt="">
+            <img margin: 15px; width="720px" src="imagens/FxOzjbRXwAICNJp.jpeg" alt="">
             <p>
                 Depois de quase três horas de competição, o jogador CHAN da ZITYsports<br>
                 finalmente se consagrou o grande campeão com um 3x0 em cima do adversário.
             </p>
+            <h3 class="data-postagem">POSTADO EM: 13/06/2023</h3>
         </div>
 
         <div id="postagem_lateral">
             olá
         </div>
+
+        <!--Início rodapé-->
+    <div id="rodape">
+        <h2>TODOS OS DIREITOS RESERVADOS</h2>
+    </div>
     </div>
     
 </body>
